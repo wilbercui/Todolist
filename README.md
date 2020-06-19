@@ -1,4 +1,3 @@
-(http://qas13.av380.cn/todo/login.php)
 # TODO List
 
 ## System Summary
